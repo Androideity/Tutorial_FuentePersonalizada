@@ -1,0 +1,7 @@
+Proyecto que muestra cómo puedes personalizar el estilo de fuente de letra dentro de tu aplicación.
+
+- Atributos de estilo en XML del widget TextView.
+- Agregar archivos TTF en tu proyecto.
+- Referenciar un archivo TTF desde código Java para asignar estilo de letra a los textos de tu proyecto.
+
+Ver tutorial: http://androideity.com/2011/08/18/personalizar-las-fuentes-en-android/
